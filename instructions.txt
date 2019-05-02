@@ -1,0 +1,13 @@
+EN:
+Open Config.exe
+First box type your button you want to bind (eg. x, y, z, ctrl, alt, q)
+Next box type how many times a secound it should spam ( eg. 60, 10, 1 )
+Third box type if it should spam X or !
+After you made your config, open ping spammer.exe
+
+RO:
+Deschide Config.exe
+Prima casuta = butonul pe care vrei sa-l binezi ( ex: x, y, z, ctrl, alt, q)
+A doua casuta = de cate ori pe secunda o sa spameze ( ex: 60, 10, 1)
+A treia casuta = ce o sa spameze X sau !
+Dupa ce ai facut configul, deschide Ping spammer.exe
